@@ -16,6 +16,11 @@ Arbeitsgrundlage für die Bachelorarbeit zur Digitalisierung der **werkseigenen 
 | [vorlagen/glossar.md](vorlagen/glossar.md) | Begriffsverzeichnis mit vorbefüllten Domänenbegriffen |
 | [vorlagen/pruefliste-anforderungsqualitaet.md](vorlagen/pruefliste-anforderungsqualitaet.md) | Prüfliste für die Qualitätssicherung des Katalogs |
 
+## Web-Version
+
+Der Leitfaden ist zusätzlich als lesefreundliche Webseite verfügbar (privat, teilbar):
+<https://claude.ai/code/artifact/d261a7b6-6227-418d-a0be-679b7880e848>
+
 ## Schnelleinstieg
 
 Wenn du wenig Zeit hast, lies im Leitfaden die Kapitel 1.1–1.4, 2, 3 und 6.2–6.3 — etwa eine Stunde. Danach kannst du mit Schritt 1 des Vorgehensmodells anfangen.
