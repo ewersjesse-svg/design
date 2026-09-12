@@ -6,6 +6,7 @@ Arbeitsgrundlage für die Bachelorarbeit zur Digitalisierung der **werkseigenen 
 
 | Datei | Inhalt |
 |---|---|
+| **[docs/kompakt-fahrplan.md](docs/kompakt-fahrplan.md)** | **Hier anfangen.** Fahrplan für die verbleibenden 4½ Wochen: reduziertes Modell, was vor den Interviews geht, Wochenplan, Seitenbudget. |
 | **[docs/leitfaden-anforderungsanalyse.md](docs/leitfaden-anforderungsanalyse.md)** | **Der Hauptleitfaden.** Grundlagen des Requirements Engineering, Anforderungsarten, Vorgehensmodell, Erhebungstechniken, Prozessmodellierung, Dokumentation, Qualitätssicherung — und die Anwendung auf die WPK im Holztafelbau. |
 | [vorlagen/interviewleitfaden.md](vorlagen/interviewleitfaden.md) | Ausformulierter Leitfaden für Experteninterviews (36 Fragen in 7 Blöcken) |
 | [vorlagen/anforderungsliste.csv](vorlagen/anforderungsliste.csv) | Spaltenstruktur des Anforderungskatalogs mit Beispielzeilen |
@@ -23,7 +24,7 @@ Der Leitfaden ist zusätzlich als lesefreundliche Webseite verfügbar (privat, t
 
 ## Schnelleinstieg
 
-Wenn du wenig Zeit hast, lies im Leitfaden die Kapitel 1.1–1.4, 2, 3 und 6.2–6.3 — etwa eine Stunde. Danach kannst du mit Schritt 1 des Vorgehensmodells anfangen.
+Lies zuerst den [Kompakt-Fahrplan](docs/kompakt-fahrplan.md). Er sagt dir, welche Kapitel des Leitfadens du wirklich brauchst.
 
 ## Hinweis zu den Fachinhalten
 
