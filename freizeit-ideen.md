@@ -73,8 +73,34 @@ Meine Ideensammlung für „Was machen wir am Wochenende?“. Basis: Leipzig.
 - ⭐ **Karaoke** – Bar oder Karaoke-Box mit Freunden
 - 👍 **Tasting** – Wein, Gin, Craft Beer oder Schokolade
 - 👍 **Kochabend / Dinner-Club** – reihum kocht jemand
-- 👍 **Brunch-Tour** – neue Cafés ausprobieren
 - 👍 **Picknick** am See oder im Park (Clara-Zetkin-Park, Rosental)
+
+### Food Markets & Feste
+*Wenn so etwas ansteht, will ich es hören – dann kann man drüber nachdenken.*
+- 👍 **Street-Food-Märkte / Food Markets** – durchprobieren, oft mit Musik und Getränken
+- 👍 **Leipziger Weinfest** und andere Weinfeste in der Umgebung (z. B. Saale-Unstrut, Meißen)
+- 👍 **Stadtteil- und Straßenfeste** – z. B. in Plagwitz, Connewitz oder auf der Karli
+- 👍 **Flohmärkte / Nachtflohmärkte** – stöbern plus Essen und Kaffee
+- 👍 **Leipziger Weihnachtsmarkt** – im Advent
+
+### Cafés ausprobieren
+*Gemütliche, unabhängige Cafés – keine Ketten. Claude darf immer mal Vorschläge machen, gern nach Kategorie.*
+
+**Kategorien:**
+- **Frühstück / Brunch** – ausgiebig am Wochenende
+- **Kuchen & Torte** – nachmittags, gemütlich
+- **Specialty Coffee** – kleine Röstereien, richtig guter Kaffee
+- **Wohnzimmer-Cafés** – Sofas, Altbau, bunt zusammengewürfelte Möbel
+- **Café mit Brettspielen** – Verbindung zu Spielecafé / Spieleabend
+- **Café mit Draußen-Plätzen** – im Sommer, am Park oder Wasser
+
+**Gute Viertel zum Stöbern:** Südvorstadt (Karli), Connewitz, Plagwitz / Lindenau, Gohlis, Zentrum-Süd
+
+**Café-Liste:**
+
+| Café | Viertel | Kategorie | Gewesen? | Bewertung (1–5) | Notiz |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
 
 ### Kreativ & Entspannung
 - 👍 **Töpfern / Keramik bemalen** – ganz witzig
@@ -90,10 +116,11 @@ Meine Ideensammlung für „Was machen wir am Wochenende?“. Basis: Leipzig.
 |---|---|
 | **Es regnet / Winter** | Spieleabend, Spielecafé, Kino, Pub-Quiz, Karaoke, Song Slam, Kabarett, Bouldern, Badminton, Therme/Sauna |
 | **Sommer / gutes Wetter** | Classic Open Air, Minigolf, Padel, Paintball, Kanu, Fußballgolf, Beachvolleyball, Parkbühne, Picknick |
-| **Date zu zweit** | Kino, Song Slam, Comedy/Kabarett, Varieté, Minigolf, Tasting, Töpfern, Therme/Sauna, Badminton |
+| **Date zu zweit** | Kino, Song Slam, Comedy/Kabarett, Varieté, Minigolf, Tasting, Töpfern, Therme/Sauna, Badminton, neues Café ausprobieren |
 | **Große Gruppe (5+)** | Spieleabend, Pub-Quiz, Paintball, Kartfahren, Karaoke, Bowling, Konzert, Rudelsingen |
-| **Wenig Budget** | Spieleabend, Pub-Quiz, Song Slam, Poetry Slam, Picknick, Classic Open Air, Quizshow-Abend zuhause |
+| **Wenig Budget** | Spieleabend, Pub-Quiz, Song Slam, Poetry Slam, Picknick, Classic Open Air, Quizshow-Abend zuhause, Flohmarkt |
 | **Spontan (heute noch)** | Kino, Spieleabend, Bowling, Minigolf, Spielecafé, Padel- oder Badminton-Court buchen |
+| **Gemütlicher Sonntag** | Café ausprobieren, Brunch, Flohmarkt, Spaziergang + Kuchen, Therme/Sauna |
 | **Mal was Besonderes** | großes Konzert mit Stimmung (wie Goldkehlchen), Paintball, Varieté, Silent Disco, Therme/Sauna-Tag |
 
 ---
@@ -106,6 +133,8 @@ Meine Ideensammlung für „Was machen wir am Wochenende?“. Basis: Leipzig.
 | Sommer | Classic Open Air (Rosental), Highfield Festival, Parkbühne, Seen |
 | 9. Oktober | Lichtfest Leipzig |
 | Herbst/Winter | Kabarett- und Comedy-Saison, Therme/Sauna, Spieleabende, Schlittschuhlaufen |
+| Frühling–Herbst | Food Markets / Street-Food-Märkte, Stadtteilfeste, Flohmärkte |
+| Spätsommer/Herbst | Weinfeste (Leipziger Weinfest, Saale-Unstrut, Meißen) – Termine checken |
 | Advent | Leipziger Weihnachtsmarkt |
 
 *Tipp: Termine für Events mit Vorverkauf (Konzerte, Comedy, Open Air) früh im Kalender eintragen.*
@@ -135,3 +164,5 @@ Meine Ideensammlung für „Was machen wir am Wochenende?“. Basis: Leipzig.
 - [ ] Töpfern
 - [ ] Classic Open Air nächsten Sommer
 - [ ] Nächstes Konzert mit Mitsing-Stimmung raussuchen
+- [ ] Food Market / Weinfest mitnehmen
+- [ ] Neue gemütliche Cafés ausprobieren (Café-Liste füllen)
