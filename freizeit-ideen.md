@@ -73,6 +73,7 @@ Meine Ideensammlung für „Was machen wir am Wochenende?“. Basis: Leipzig.
 - ⭐ **Karaoke** – Bar oder Karaoke-Box mit Freunden
 - 👍 **Tasting** – Wein, Gin, Craft Beer oder Schokolade
 - 👍 **Kochabend / Dinner-Club** – reihum kocht jemand
+- ⭐ **Zusammen kochen mit Freundin** – z. B. Kürbissuppe (geplant, perfekt für Herbst)
 - 👍 **Picknick** am See oder im Park (Clara-Zetkin-Park, Rosental)
 
 ### Food Markets & Feste
@@ -165,4 +166,5 @@ Meine Ideensammlung für „Was machen wir am Wochenende?“. Basis: Leipzig.
 - [ ] Classic Open Air nächsten Sommer
 - [ ] Nächstes Konzert mit Mitsing-Stimmung raussuchen
 - [ ] Food Market / Weinfest mitnehmen
+- [ ] Mit Freundin Kürbissuppe kochen
 - [ ] Neue gemütliche Cafés ausprobieren (Café-Liste füllen)
