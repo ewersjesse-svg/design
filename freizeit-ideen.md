@@ -76,6 +76,13 @@ Meine Ideensammlung für „Was machen wir am Wochenende?“. Basis: Leipzig.
 - ⭐ **Zusammen kochen mit Freundin** – z. B. Kürbissuppe (geplant, perfekt für Herbst)
 - 👍 **Picknick** am See oder im Park (Clara-Zetkin-Park, Rosental)
 
+### Essen gehen (Restaurants)
+*Konkrete Lokale, die als Option gemerkt sind.*
+
+| Lokal | Viertel | Küche | Gewesen? | Bewertung (1–5) | Notiz |
+|---|---|---|---|---|---|
+| PK Pizza | Leipziger Westen | Pizza | | | Option zum Essen gehen |
+
 ### Food Markets & Feste
 *Wenn so etwas ansteht, will ich es hören – dann kann man drüber nachdenken.*
 - 👍 **Street-Food-Märkte / Food Markets** – durchprobieren, oft mit Musik und Getränken
