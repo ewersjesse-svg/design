@@ -74,6 +74,14 @@ Meine Ideensammlung für „Was machen wir am Wochenende?“. Basis: Leipzig.
 - 👍 **Tasting** – Wein, Gin, Craft Beer oder Schokolade
 - 🤔 **Jacques' Wein-Depot** – Weinverkostungen / Weinproben (Option für einen Abend zu zweit oder mit Freunden)
 - 🤔 **Weinwanderung bei Dresden** – Tipp von einem Kumpel; im Sächsischen Weinland rund um Dresden (z. B. Radebeul, Meißen) gibt es Wanderungen durch die Weinberge, oft mit Verkostung. Konkrete Anbieter und Termine noch rausfinden – Tagesausflug, Kombi mit Weinfest möglich
+  - **Anbieter (Preise grob, vor Buchung prüfen):**
+    - **Sächsisches Staatsweingut Schloss Wackerbarth** (Radebeul) – Wanderung durch die Weinberge mit 4er-Verkostung, ca. 31 € p. P., Anmeldung per Telefon/Mail
+    - **Sachsen.tours** (Radebeul) – moderierte Weinwanderungen mit Weinprobe, auch längere Tour Radebeul → Meißen (ca. 6 h), Buchung online
+    - **Weinkeller „Am Goldenen Wagen“** (Radebeul) – kleine Weinbergwanderung mit 4 Weinen, ca. 26 € p. P.; nur zu bestimmten Terminen, vorher anmelden
+    - **Weingut Haus Steinbach** (Radebeul) – Weinprobe mit Weinwanderung, online mit Terminauswahl
+    - **Weinschank Walter** (Radebeul) – Weinbergtouren durch die Lößnitz mit 5er-Verkostung
+    - **Erlebnisfabrik** / **Hirschfeld.de** – gebuchte Touren in Radebeul, ca. 35–50 € p. P., teils mit Speisen
+    - **Tage des offenen Weingutes** (jährlich im Sommer) – viele Winzer im Elbland gleichzeitig offen
 - 👍 **Kochabend / Dinner-Club** – reihum kocht jemand
 - ⭐ **Zusammen kochen mit Freundin** – z. B. Kürbissuppe (geplant, perfekt für Herbst)
 - 👍 **Picknick** am See oder im Park (Clara-Zetkin-Park, Rosental)
