@@ -72,6 +72,8 @@ Meine Ideensammlung für „Was machen wir am Wochenende?“. Basis: Leipzig.
 ### Essen & Gemütlich
 - ⭐ **Karaoke** – Bar oder Karaoke-Box mit Freunden
 - 👍 **Tasting** – Wein, Gin, Craft Beer oder Schokolade
+- 🤔 **Jacques' Wein-Depot** – Weinverkostungen / Weinproben (Option für einen Abend zu zweit oder mit Freunden)
+- 🤔 **Weinwanderung bei Dresden** – Tipp von einem Kumpel; im Sächsischen Weinland rund um Dresden (z. B. Radebeul, Meißen) gibt es Wanderungen durch die Weinberge, oft mit Verkostung. Konkrete Anbieter und Termine noch rausfinden – Tagesausflug, Kombi mit Weinfest möglich
 - 👍 **Kochabend / Dinner-Club** – reihum kocht jemand
 - ⭐ **Zusammen kochen mit Freundin** – z. B. Kürbissuppe (geplant, perfekt für Herbst)
 - 👍 **Picknick** am See oder im Park (Clara-Zetkin-Park, Rosental)
@@ -173,5 +175,7 @@ Meine Ideensammlung für „Was machen wir am Wochenende?“. Basis: Leipzig.
 - [ ] Classic Open Air nächsten Sommer
 - [ ] Nächstes Konzert mit Mitsing-Stimmung raussuchen
 - [ ] Food Market / Weinfest mitnehmen
+- [ ] Weinverkostung bei Jacques' Wein-Depot
+- [ ] Weinwanderung bei Dresden (Anbieter & Termin raussuchen)
 - [ ] Mit Freundin Kürbissuppe kochen
 - [ ] Neue gemütliche Cafés ausprobieren (Café-Liste füllen)
